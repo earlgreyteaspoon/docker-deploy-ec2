@@ -264,7 +264,7 @@ app.get('/', (req, res) => {
       <div class="container">
         <div class="header">
           <h1>🚀 ${APP_NAME}</h1>
-          <p>학번: 20231512 | 이름: 방석영</p>
+          <p>이름: 방석영 | 학번: 20231512</p>
         </div>
 
         <div class="tabs">
